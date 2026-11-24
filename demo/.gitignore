@@ -1,0 +1,6 @@
+# Render intermediates (rebuild with render.py)
+build/
+frames/
+voice/
+frames.txt
+*.wav
